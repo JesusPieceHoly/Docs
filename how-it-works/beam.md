@@ -21,9 +21,9 @@ After all legacy pools are closed, **All The LPs must be in LawSwap.**
 | Pool               | Stake             | Fee  | Ref Reward |
 | ------------------ | ----------------- | ---- | ---------- |
 | CARNOT HEAT ENGINE | LAW-BCH LP        | 0 %  | 10 %       |
-| DUAL CIRCULATION   | lawETP-LAW LP     | 1 %  | 1 %        |
-| BOOTSTRAPPING      | lawUSD-LAW LP     | 1 %  | 1 %        |
-| HUNGER GAMES       | lawUSD-flexUSD LP | 1 %  | 1 %        |
+| DUAL CIRCULATION   | lawETP-LAW LP     | 1 %  | 5 %        |
+| BOOTSTRAPPING      | lawUSD-LAW LP     | 1 %  | 5 %        |
+| HUNGER GAMES       | lawUSD-flexUSD LP | 1 %  | 5 %        |
 | POST KEYNESIAN     | lawUSD-BCH LP     | 1 %  | 1 %        |
 | EDENS ZERO         | BCH               | 0 %  | 10 %       |
 | RENEWABLE ENERGY   | lawETP            | 10 % | 1 %        |
