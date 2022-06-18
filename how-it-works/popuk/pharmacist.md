@@ -14,11 +14,11 @@ Pharmacist is a LawPunks skill with a current maximum level of 3. Pharmacist ski
 
 The Pharmacist skill allows LawPunk to have the ability to make pharmaceuticals, and pharmaceuticals allow LawPunks to overplay in PoPuk.
 
-| IMG                                                                  | Pharmaceutical           | Pharmaceutical efficacy                                                                                                            | Production Cost                                              |
-| -------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="../../.gitbook/assets/图片 (3).png" alt="" data-size="line"> | <p>Antiseptic</p><p></p> | Increase the 50% - 100% ( Proportion to be determined after pharmaceutical completion ) Hash Rate of a certain LawPunk in mining.  | <p>15 lawETP,<br>24 Hours,<br>Require Pharmacists Lv.1 </p>  |
-| <img src="../../.gitbook/assets/图片 (5).png" alt="" data-size="line"> | <p></p><p>StimPack</p>   | Increase the 100% - 200% ( Proportion to be determined after pharmaceutical completion ) Hash Rate of a certain LawPunk in mining. | <p>30 lawETP,</p><p>48Hours,<br>Require Pharmacists Lv.2</p> |
-| <img src="../../.gitbook/assets/图片 (4).png" alt="" data-size="line"> | <p>Psycho</p><p></p>     | Increase the 200% - 400% ( Proportion to be determined after pharmaceutical completion ) Hash Rate of a certain LawPunk in mining. | <p>60 lawETP,</p><p>96Hours,<br>Require Pharmacists Lv.3</p> |
+| IMG                                                                      | Pharmaceutical           | Pharmaceutical efficacy                                                                                                            | Production Cost                                              |
+| ------------------------------------------------------------------------ | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| <img src="../../.gitbook/assets/图片 (3) (1).png" alt="" data-size="line"> | <p>Antiseptic</p><p></p> | Increase the 50% - 100% ( Proportion to be determined after pharmaceutical completion ) Hash Rate of a certain LawPunk in mining.  | <p>15 lawETP,<br>24 Hours,<br>Require Pharmacists Lv.1 </p>  |
+| <img src="../../.gitbook/assets/图片 (5) (1).png" alt="" data-size="line"> | <p></p><p>StimPack</p>   | Increase the 100% - 200% ( Proportion to be determined after pharmaceutical completion ) Hash Rate of a certain LawPunk in mining. | <p>30 lawETP,</p><p>48Hours,<br>Require Pharmacists Lv.2</p> |
+| <img src="../../.gitbook/assets/图片 (4) (1).png" alt="" data-size="line"> | <p>Psycho</p><p></p>     | Increase the 200% - 400% ( Proportion to be determined after pharmaceutical completion ) Hash Rate of a certain LawPunk in mining. | <p>60 lawETP,</p><p>96Hours,<br>Require Pharmacists Lv.3</p> |
 
 #### How to use
 

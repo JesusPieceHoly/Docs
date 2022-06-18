@@ -38,6 +38,6 @@ After all legacy pools are closed, **All The LPs must be in LawSwap.**
 The entire reward of RENEWABLE ENERGY Pool comes from the ecological cycle.
 {% endhint %}
 
-![Allocation](<../.gitbook/assets/图片 (2).png>)
+![Allocation](<../.gitbook/assets/图片 (2) (1).png>)
 
 ###

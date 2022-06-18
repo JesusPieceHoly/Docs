@@ -14,7 +14,7 @@ PAWN is a lending protocol that uses many sBCH assets (current WBCH and LAW) as 
 
 ### lawUSD Value Stabilizer
 
-![](<../../.gitbook/assets/图片 (3) (1).png>)
+![](<../../.gitbook/assets/图片 (3) (1) (1).png>)
 
 The price stability of lawUSD is achieved by the protocol’s lawUSD Value Stabilizer, which incentivizes the minting or burning of lawETP through arbitrage opportunities. Arbitrage occurs when a user profits from price differences between markets.
 
@@ -30,7 +30,7 @@ Head over to [https://blockng.money](https://blockng.money) and click on **PAWN*
 
 The borrow section of the website displays a variety of assets that can be used as collateral, you can choose one of them.
 
-![](../../.gitbook/assets/图片.png)
+![](<../../.gitbook/assets/图片 (2).png>)
 
 On the right side are the parameters of the market :&#x20;
 
@@ -41,7 +41,7 @@ On the right side are the parameters of the market :&#x20;
 
 Once your component has been selected, the **BORROW/REPAY** section will appear.
 
-![](<../../.gitbook/assets/图片 (1) (1).png>)
+![](<../../.gitbook/assets/图片 (1) (1) (1).png>)
 
 First, decide how much LAW will be used as collateral. After depositing  ,then decide how much lawUSD will be borrowed by either typing in the numbers or using the SAFEMAX button.
 
