@@ -1,6 +1,8 @@
 # 📢 Cross-chain Token Address
 
-All cross-chain Tokens start with 0xBc.
+{% hint style="info" %}
+All Cross-Chain Tokens Address starts with 0xBC.
+{% endhint %}
 
 
 

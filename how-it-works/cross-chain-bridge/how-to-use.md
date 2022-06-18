@@ -1,8 +1,10 @@
 # 🌈 How to use
 
+{% hint style="info" %}
+All Cross-Chain Tokens Address starts with 0xBC.
+{% endhint %}
+
 ### Cross-chain (DAI as an example)
-
-
 
 First , select the from chain and the target chain, at this point take care to switch the Metamask wallet to the network of the from chain.
 
@@ -25,6 +27,8 @@ Then click on "Switch to Target Network".&#x20;
 Click on "Claim" and you will receive the cross-chain version of the token.
 
 ![](<../../.gitbook/assets/图片 (4).png>)
+
+
 
 ### Manual Claim of Previous Transaction
 
