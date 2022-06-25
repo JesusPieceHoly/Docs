@@ -10,7 +10,7 @@ bcBCH is BCH bridged from BNB Chain.
 
 Enter smartBCH：
 
-1. Convert the Binance Pegged BCH (0x8ff795a6f4d97e7887c79bea79aba5cc76444adf) to bcBCH by crossing the cross-chain bridge.
+1. Convert the Binance Pegged BCH (0x8ff795a6f4d97e7887c79bea79aba5cc76444adf) to bcBCH by crossing the cross-chain [bridge](https://blockng.money/#/bridge).
 2. Swap bcBCH to BCH at [MistSwap](https://app.mistswap.fi/swap).
 
 
@@ -18,7 +18,7 @@ Enter smartBCH：
 Exit smartBCH：
 
 1. Swap BCH to bcBCH at [MistSwap](https://app.mistswap.fi/swap).
-2. Convert the bcBCH to  Binance Pegged BCH (0x8ff795a6f4d97e7887c79bea79aba5cc76444adf)  by crossing the cross-chain bridge.
+2. Convert the bcBCH to  Binance Pegged BCH (0x8ff795a6f4d97e7887c79bea79aba5cc76444adf)  by crossing the cross-chain [bridge](https://blockng.money/#/bridge).
 
 ### Bridge via bcUSDT
 
@@ -26,7 +26,7 @@ bcUSDT is USDT bridged from BNB Chain.
 
 Enter smartBCH：
 
-1. Convert the Binance Pegged USDT (0x55d398326f99059ff775485246999027b3197955) to bcBUSDT by crossing the cross-chain bridge.
+1. Convert the Binance Pegged USDT (0x55d398326f99059ff775485246999027b3197955) to bcBUSDT by crossing the cross-chain [bridge](https://blockng.money/#/bridge).
 2. Check "Need Gas" if you have no startup funds on smartBCH.
 3. Swap bcUSDT to BCH at [MistSwap](https://app.mistswap.fi/swap).
 
@@ -35,7 +35,7 @@ Enter smartBCH：
 Exit smartBCH：
 
 1. Swap bcUSDT to bcBCH at [MistSwap](https://app.mistswap.fi/swap).
-2. Convert the bcUSDT to  Binance Pegged USDT (0x55d398326f99059ff775485246999027b3197955)  by crossing the cross-chain bridge.
+2. Convert the bcUSDT to  Binance Pegged USDT (0x55d398326f99059ff775485246999027b3197955)  by crossing the cross-chain [bridge](https://blockng.money/#/bridge).
 
 
 
