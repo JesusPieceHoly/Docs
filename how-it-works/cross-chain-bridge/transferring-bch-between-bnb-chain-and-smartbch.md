@@ -2,6 +2,10 @@
 
 ### Bridge via bcBCH
 
+{% hint style="info" %}
+The easiest way to get Binance Pegged BCH is to withdraw BCH from the Binance exchange to BNB Chain (BEP20).
+{% endhint %}
+
 bcBCH is BCH bridged from BNB Chain.
 
 Enter smartBCH：
