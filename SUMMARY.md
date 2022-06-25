@@ -7,6 +7,7 @@
 * [🌉 Cross-Chain Bridge](how-it-works/cross-chain-bridge/README.md)
   * [🌈 How to use](how-it-works/cross-chain-bridge/how-to-use.md)
   * [📢 Cross-chain Token Address](how-it-works/cross-chain-bridge/cross-chain-token-address.md)
+  * [🚁 Transferring BCH between BNB Chain and smartBCH](how-it-works/cross-chain-bridge/transferring-bch-between-bnb-chain-and-smartbch.md)
 * [🧑🤝🧑 Self-Distributing Social Network System (SSNS)](how-it-works/ssns.md)
 * [🛰 BEAM & CIVIL BEAM](how-it-works/beam.md)
 * [🤠 Proof Of LawPunks (PoPuk)](how-it-works/popuk/README.md)
