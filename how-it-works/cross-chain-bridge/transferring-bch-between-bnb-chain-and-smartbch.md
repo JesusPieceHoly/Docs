@@ -39,8 +39,6 @@ Exit smartBCH：
 
 
 
-### Bridge via bcUSDT
-
 
 
 ### Help Boost the liquidity of smartBCH and BNB Chain
