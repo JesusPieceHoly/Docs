@@ -9,6 +9,7 @@ All Cross-Chain Tokens Address starts with 0xBC.
 | Asset     | smartBCHAddress                            | BSCAddress                                 |
 | --------- | ------------------------------------------ | ------------------------------------------ |
 | bcBNB     | 0xBc7b858B5694D485AD17c89675649cE44De21BEa | 0x0000000000000000000000000000000000000002 |
+| bcBCH     | 0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195 | 0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf |
 | bcUSDT    | 0xBc2F884680c95A02cea099dA2F524b366d9028Ba | 0x55d398326f99059ff775485246999027b3197955 |
 | bcBUSD    | 0xbC6aEA0c2Cd7bFA073903ebdc23c8aAe79C7c826 | 0xe9e7cea3dedca5984780bafc599bd69add087d56 |
 | bcUSDC    | 0xBcbd9990dcEC6a64741ea27BeC0cA8ff6B91Bc26 | 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d |
