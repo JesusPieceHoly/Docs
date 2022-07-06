@@ -14,6 +14,16 @@ Callisto Bridge: [https://github.com/EthereumCommonwealth/CallistoBridge](https:
 
 
 
+Deployed Bridge Contract:
+
+[https://sonar.cash/address/0x1336001CBdb94C5cf95ee93F2dC3CA99Db382Ff4](https://sonar.cash/address/0x1336001CBdb94C5cf95ee93F2dC3CA99Db382Ff4)\
+[https://bscscan.com/address/0xc9aa9aa98563c2f1aa66804e1efa0f07a807321c](https://bscscan.com/address/0xc9aa9aa98563c2f1aa66804e1efa0f07a807321c)\
+
+
+
+
+
+
 **About Callisto Network：**
 
 Callisto Network is a decentralized platform based on Ethereum protocol with its cryptocurrency (CLO).
