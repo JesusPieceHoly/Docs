@@ -16,7 +16,7 @@ Reference: [BNB Chain Official Website](https://www.bnbchain.org/en) , "Get BNB 
 
 In addition, if you have assets in BNB Chain and are ready to enter smartBCH, we offer convenient access to Gas exchange.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 By simply checking "Need Gas", you will pay 0.01 BNB as a fee for cross-chain transactions and we will provide you with 0.01 BCH as a Gas fee in the smartBCH network at the same address.
 
