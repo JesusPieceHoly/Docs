@@ -42,7 +42,7 @@ July 18, 2022 —— August 18, 2022
 #### **Advanced Requirements**
 
 * Introducing the LawPunks mechanism ( + 10 LAW)
-* Guidance on using Pawn for lending lawUSD( + 10 LAW)
+* Guidance on using Pawn for borrowing lawUSD( + 10 LAW)
 * Guidance for LawRights creation & voting ( + 10 LAW)
 * Guidance for mining in the **LAW-bcBNB** CIVIL BEAM pool ( + 20 LAW)
 
@@ -64,7 +64,7 @@ July 18, 2022 —— August 18, 2022
 #### **Advanced Requirements**
 
 * Introducing the LawPunks mechanism ( + 10 LAW)
-* Guidance on using Pawn for lending lawUSD( + 10 LAW)
+* Guidance on using Pawn for borrowing lawUSD( + 10 LAW)
 * Guidance for LawRights creation & voting ( + 10 LAW)
 * Guidance for mining in the **LAW-bcBNB** CIVIL BEAM pool ( + 20 LAW)
 
