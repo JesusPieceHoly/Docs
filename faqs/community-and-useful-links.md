@@ -5,7 +5,7 @@
 🐶 GitHub：[https://github.com/BlockNG-Foundation/](https://github.com/BlockNG-Foundation/)
 
 🔗 [https://blockng.money/](https://blockng.money)\
-👥 [https://t.me/BlockNGGlobal](https://t.me/BlockNGGlobal)\
+👥 [https://t.me/BlockNGEn](https://t.me/BlockNGEn)\
 🐦 [https://twitter.com/BlockngO/](https://twitter.com/BlockngO/)\
 📚 [https://medium.com/@blockng](https://medium.com/@blockng)
 
