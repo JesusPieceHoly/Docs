@@ -2,13 +2,21 @@
 
 ![](<../.gitbook/assets/image (1).png>)
 
+## Winners
+
+
+
+Detail:
+
+{% embed url="https://docs.google.com/spreadsheets/d/1zMbFFJ3H8Fq55dxV3Bb4XFDPHhkC7lLOZQBJA0T8KVE" %}
+
 ## Event Summary
 
 ### Time
 
 July 18, 2022 —— August 18, 2022
 
-### Bounty Distribution
+### Bo unty Distribution
 
 * Article Guide : Total prize up to 3000 LAW
 * Video Tutorial : Total prize up to 6000 LAW
