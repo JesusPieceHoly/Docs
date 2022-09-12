@@ -16,3 +16,8 @@ All Cross-Chain Tokens Address starts with 0xBC.
 | bcBTC     | 0xbC8643ceDd98F94756633f18945362d3B24283B8 | 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c |
 | bcETH     | 0xbC7160974318820be438e54439b309921e96B62C | 0x2170ed0880ac9a755fd29b2688956bd959f933f8 |
 | bcDAI     | 0xBCCD70794BB199B0993E56Bfe277142246c2f43b | 0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3 |
+
+| Asset   | smartBCHAddress                            | DogeChainAddress                           |
+| ------- | ------------------------------------------ | ------------------------------------------ |
+| dcWDOGE | 0xdcDC535c134159AF7683df91CbAF014f88C5137d | 0x0000000000000000000000000000000000000003 |
+| dcDC    | 0xdcDC9141681ca3A2A681009cAEf312B8eD444236 | 0x7B4328c127B85369D9f82ca0503B000D09CF9180 |
