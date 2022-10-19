@@ -1,45 +1,23 @@
 # Table of contents
 
-* [💹 BlockNG Protocol : Build the next generation synthetic currency](README.md)
-
-## How it works
-
-* [🌉 Cross-Chain Bridge](how-it-works/cross-chain-bridge/README.md)
-  * [🌈 How to use](how-it-works/cross-chain-bridge/how-to-use.md)
-  * [📢 Cross-chain Token Address](how-it-works/cross-chain-bridge/cross-chain-token-address.md)
-  * [🚁 Transferring BCH between BNB Chain and smartBCH](how-it-works/cross-chain-bridge/transferring-bch-between-bnb-chain-and-smartbch.md)
-  * [🔐 Security](how-it-works/cross-chain-bridge/security.md)
-* [🧑🤝🧑 Self-Distributing Social Network System (SSNS)](how-it-works/ssns.md)
-* [🛰 BEAM & CIVIL BEAM](how-it-works/beam.md)
-* [🤠 Proof Of LawPunks (PoPuk)](how-it-works/popuk/README.md)
-  * [👿 Dungeon](how-it-works/popuk/dungeon.md)
-  * [🙀 Cry](how-it-works/popuk/cry.md)
-  * [💊 Pharmacist](how-it-works/popuk/pharmacist.md)
-* [🚬 Punks Market (SOUK)](how-it-works/souk.md)
-* [💲 Stable Coin Lending Protocol (PAWN)](how-it-works/pawn/README.md)
-  * [㊙ Liquidator's Guide](how-it-works/pawn/liquidators-guide.md)
-* [🌐 The LAWSwap & DAO](how-it-works/dao/README.md)
-  * [🧸 How to create a BEAM Pool](how-it-works/dao/how-to-create-a-beam-pool.md)
-  * [🥖 Bribe & Receive Bribe](how-it-works/dao/bribe-and-receive-bribe.md)
-
-## TOKEN ECONOMICS
-
-* [🧊 LAW](token-economics/law.md)
-* [#⃣ lawETP](token-economics/lawetp.md)
-* [💰 lawUSD](token-economics/lawusd.md)
-
-## NFTs
-
-* [🤖 LawPunks](nfts/lawpunks.md)
-* [👻 Ghost LawPunks](nfts/ghost-lawpunks.md)
-* [🤜 LawRights](nfts/lawrights.md)
-
-## FAQs
-
-* [⁉ Frequently asked questions](faqs/frequently-asked-questions.md)
-* [📢 Contract Addresses](faqs/contract-addresses.md)
-* [🔗 Community & Useful Links](faqs/community-and-useful-links.md)
-
-## EVENTS
-
-* [🙉 Bolívar Bridge Ambassador Bounty](events/ambassador.md)
+* [Page 1](README.md)
+* [GitHub: Docs of BlockNG protocol](github-docs-of-blockng-protocol.md)
+* [Stargazers](stargazers.md)
+* [Issues](issues.md)
+* [Actions](actions.md)
+* [Pull requests](pull-requests.md)
+* [Forks](forks.md)
+* [Build software better, together](build-software-better-together.md)
+* [Releases](releases.md)
+* [Build software better, together](build-software-better-together-1.md)
+* [Pulse](pulse.md)
+* [Branches](branches.md)
+* [Commits](commits.md)
+* [GitBook: \[#34\] No subject@2ce8e64](gitbook-34-no-subject-2ce8e64.md)
+* [GitHub at 2ce8e64726328dba586b49e5a655f73f4ec1c7a6](github-at-2ce8e64726328dba586b49e5a655f73f4ec1c7a6.md)
+* [Commits](commits-1.md)
+* [Docs/.gitbook/assets at main](docs-.gitbook-assets-at-main.md)
+* [GitBook: \[#30\] No subject@64c58c2](gitbook-30-no-subject-64c58c2.md)
+* [Docs/events at main](docs-events-at-main.md)
+* [GitBook: \[#33\] No subject@1a7d201](gitbook-33-no-subject-1a7d201.md)
+* [Docs/faqs at main](docs-faqs-at-main.md)
